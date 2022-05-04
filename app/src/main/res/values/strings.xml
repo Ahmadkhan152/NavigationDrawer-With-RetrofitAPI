@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="google_map_key">AIzaSyDpkxbWCLjwii7SIdOSbChiMxApBp2PFU4</string>
+    <string name="browser_key">AIzaSyDp0RU5kUs9iWhtJHW1n9lpbbSEjagnBxA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="singup">SINGUP</string>
+    <string name="login">LOGIN</string>
+    <string name="picture">Picture</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="save">Save</string>
+    <string name="enter_your_location">Enter Your Location</string>
+</resources>
